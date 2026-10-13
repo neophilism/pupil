@@ -1,10 +1,6 @@
 {
   "repository": "neophilism/pupil",
-  "title": "pupil",
-  "version": 1,
-  "planVerified": false,
-  "plannedPrCount": 0,
-  "milestones": [],
-  "verificationNeeded": "No approved itemized PR development plan identified in the repository. This marker does not change its existing product or code.",
-  "sourceFiles": []
+  "deprecated": true,
+  "redirectTo": "registry/prs.json",
+  "instructions": "Retired duplicate plan. The sole active PR registry is registry/prs.json; see registry/PR_FORMAT.md. Consumers read that path directly."
 }
